@@ -1,0 +1,15 @@
+{
+  "status": "Superseded original redraw preserved unchanged",
+  "files": [
+    {
+      "path": "profile/README.md",
+      "archive_path": "archive/owner-logo-correction-2026-10-09/profile/README.md",
+      "sha256": "e19d4c281afa55db8fefc62cce58f1752a61f509c0a38f50eaaeaec06b554136"
+    },
+    {
+      "path": "profile/assets/milliganco-mark-master.svg",
+      "archive_path": "archive/owner-logo-correction-2026-10-09/profile/assets/milliganco-mark-master.svg",
+      "sha256": "0e37dbe084065aad19951f2b1c4ea9278b9888a5730629d9d7a8864489f1d74a"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/milliganandco/.github/main/profile/assets/milliganco-mark-master.svg" alt="Milligan & Co. sunrise compass" width="100" />
+<img src="https://raw.githubusercontent.com/milliganandco/.github/main/profile/assets/milliganco-logo-owner-confirmed.png" alt="Milligan & Co. logo" width="100" />
 
 # Milligan & Co.
 
